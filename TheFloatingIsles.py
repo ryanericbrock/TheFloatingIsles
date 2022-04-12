@@ -19,7 +19,7 @@ import titleMenus
 # Class for handling the player's inventory
 # Demo contains amount of wood and stone
 # as well as the "level" of axe and pickaxe
-class Inventory:  # A Class
+class Inventory:
     def __init__(self, woodInv, axe, stoneInv, pickaxe):
         self.woodInv = int(woodInv)
         self.axe = int(axe)
