@@ -1,0 +1,15 @@
+This file is used as a reference for
+which numbers line up with which quests and tools.
+More of a reference for myself when creating the
+project than for the user.
+
+Main:
+    0 = Interact with Idol
+    1 = Chop down the 5 trees
+    2 = Build a house
+    3 = Craft a Workbench
+    4 = Craft a wooden pickaxe
+
+Tools:
+    1 = Wood
+    2 = Stone
